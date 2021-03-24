@@ -1,0 +1,1400 @@
+
+1. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579150; Sample name: JAL_IOB_200; SRA: SRS2045987
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579150	ID: 6579150
+
+2. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579149; Sample name: JAL_IOB_199; SRA: SRS2045988
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579149	ID: 6579149
+
+3. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579148; Sample name: JAL_IOB_198; SRA: SRS2045989
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579148	ID: 6579148
+
+4. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579147; Sample name: JAL_IOB_197; SRA: SRS2045990
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579147	ID: 6579147
+
+5. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579146; Sample name: JAL_IOB_196; SRA: SRS2045991
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579146	ID: 6579146
+
+6. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579145; Sample name: JAL_IOB_195; SRA: SRS2045992
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579145	ID: 6579145
+
+7. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579144; Sample name: JAL_IOB_194; SRA: SRS2045993
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579144	ID: 6579144
+
+8. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579143; Sample name: JAL_IOB_193; SRA: SRS2045994
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579143	ID: 6579143
+
+9. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579142; Sample name: JAL_IOB_192; SRA: SRS2045995
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579142	ID: 6579142
+
+10. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579141; Sample name: JAL_IOB_191; SRA: SRS2045996
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579141	ID: 6579141
+
+11. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579140; Sample name: JAL_IOB_190; SRA: SRS2045997
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579140	ID: 6579140
+
+12. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579139; Sample name: JAL_IOB_189; SRA: SRS2045998
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579139	ID: 6579139
+
+13. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579138; Sample name: JAL_IOB_188; SRA: SRS2045999
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579138	ID: 6579138
+
+14. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579137; Sample name: JAL_IOB_187; SRA: SRS2046000
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579137	ID: 6579137
+
+15. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579136; Sample name: JAL_IOB_186; SRA: SRS2046001
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579136	ID: 6579136
+
+16. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579135; Sample name: JAL_IOB_185; SRA: SRS2046002
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579135	ID: 6579135
+
+17. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579134; Sample name: JAL_IOB_184; SRA: SRS2046003
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579134	ID: 6579134
+
+18. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579133; Sample name: JAL_IOB_183; SRA: SRS2046004
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579133	ID: 6579133
+
+19. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579132; Sample name: JAL_IOB_182; SRA: SRS2046005
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579132	ID: 6579132
+
+20. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579131; Sample name: JAL_IOB_181; SRA: SRS2046006
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579131	ID: 6579131
+
+21. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579130; Sample name: JAL_IOB_180; SRA: SRS2046007
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579130	ID: 6579130
+
+22. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579129; Sample name: JAL_IOB_179; SRA: SRS2046008
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579129	ID: 6579129
+
+23. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579128; Sample name: JAL_IOB_178; SRA: SRS2046009
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579128	ID: 6579128
+
+24. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579127; Sample name: JAL_IOB_177; SRA: SRS2046010
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579127	ID: 6579127
+
+25. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579126; Sample name: JAL_IOB_176; SRA: SRS2046011
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579126	ID: 6579126
+
+26. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579125; Sample name: JAL_IOB_175; SRA: SRS2046012
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579125	ID: 6579125
+
+27. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579124; Sample name: JAL_IOB_174; SRA: SRS2046013
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579124	ID: 6579124
+
+28. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579123; Sample name: JAL_IOB_173; SRA: SRS2046014
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579123	ID: 6579123
+
+29. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579122; Sample name: JAL_IOB_172; SRA: SRS2046015
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579122	ID: 6579122
+
+30. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579121; Sample name: JAL_IOB_171; SRA: SRS2046016
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579121	ID: 6579121
+
+31. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579120; Sample name: JAL_IOB_170; SRA: SRS2046017
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579120	ID: 6579120
+
+32. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579119; Sample name: JAL_IOB_169; SRA: SRS2046018
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579119	ID: 6579119
+
+33. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579118; Sample name: JAL_IOB_168; SRA: SRS2046019
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579118	ID: 6579118
+
+34. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579117; Sample name: JAL_IOB_167; SRA: SRS2046020
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579117	ID: 6579117
+
+35. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579116; Sample name: JAL_IOB_166; SRA: SRS2046021
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579116	ID: 6579116
+
+36. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579115; Sample name: JAL_IOB_165; SRA: SRS2046022
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579115	ID: 6579115
+
+37. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579114; Sample name: JAL_IOB_164; SRA: SRS2046024
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579114	ID: 6579114
+
+38. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579113; Sample name: JAL_IOB_163; SRA: SRS2046023
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579113	ID: 6579113
+
+39. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579112; Sample name: JAL_IOB_162; SRA: SRS2046026
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579112	ID: 6579112
+
+40. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579111; Sample name: JAL_IOB_161; SRA: SRS2046025
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579111	ID: 6579111
+
+41. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579110; Sample name: JAL_IOB_160; SRA: SRS2046027
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579110	ID: 6579110
+
+42. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579109; Sample name: JAL_IOB_159; SRA: SRS2046028
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579109	ID: 6579109
+
+43. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579108; Sample name: JAL_IOB_158; SRA: SRS2046029
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579108	ID: 6579108
+
+44. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579107; Sample name: JAL_IOB_157; SRA: SRS2046030
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579107	ID: 6579107
+
+45. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579106; Sample name: JAL_IOB_156; SRA: SRS2046032
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579106	ID: 6579106
+
+46. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579105; Sample name: JAL_IOB_155; SRA: SRS2046031
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579105	ID: 6579105
+
+47. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579104; Sample name: JAL_IOB_154; SRA: SRS2046033
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579104	ID: 6579104
+
+48. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579103; Sample name: JAL_IOB_153; SRA: SRS2046034
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579103	ID: 6579103
+
+49. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579102; Sample name: JAL_IOB_152; SRA: SRS2046037
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579102	ID: 6579102
+
+50. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579101; Sample name: JAL_IOB_151; SRA: SRS2046038
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579101	ID: 6579101
+
+51. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579100; Sample name: JAL_IOB_150; SRA: SRS2046035
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579100	ID: 6579100
+
+52. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579099; Sample name: JAL_IOB_149; SRA: SRS2046036
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579099	ID: 6579099
+
+53. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579098; Sample name: JAL_IOB_148; SRA: SRS2046042
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579098	ID: 6579098
+
+54. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579097; Sample name: JAL_IOB_147; SRA: SRS2046040
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579097	ID: 6579097
+
+55. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579096; Sample name: JAL_IOB_146; SRA: SRS2046039
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579096	ID: 6579096
+
+56. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579095; Sample name: JAL_IOB_145; SRA: SRS2046041
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579095	ID: 6579095
+
+57. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579094; Sample name: JAL_IOB_144; SRA: SRS2046045
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579094	ID: 6579094
+
+58. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579093; Sample name: JAL_IOB_143; SRA: SRS2046044
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579093	ID: 6579093
+
+59. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579092; Sample name: JAL_IOB_142; SRA: SRS2046043
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579092	ID: 6579092
+
+60. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579091; Sample name: JAL_IOB_141; SRA: SRS2046046
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579091	ID: 6579091
+
+61. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579090; Sample name: JAL_IOB_140; SRA: SRS2046050
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579090	ID: 6579090
+
+62. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579089; Sample name: JAL_IOB_139; SRA: SRS2046048
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579089	ID: 6579089
+
+63. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579088; Sample name: JAL_IOB_138; SRA: SRS2046047
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579088	ID: 6579088
+
+64. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579087; Sample name: JAL_IOB_137; SRA: SRS2046049
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579087	ID: 6579087
+
+65. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579086; Sample name: JAL_IOB_136; SRA: SRS2046053
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579086	ID: 6579086
+
+66. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579085; Sample name: JAL_IOB_135; SRA: SRS2046051
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579085	ID: 6579085
+
+67. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579084; Sample name: JAL_IOB_134; SRA: SRS2046052
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579084	ID: 6579084
+
+68. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579083; Sample name: JAL_IOB_133; SRA: SRS2046054
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579083	ID: 6579083
+
+69. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579082; Sample name: JAL_IOB_132; SRA: SRS2046055
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579082	ID: 6579082
+
+70. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579081; Sample name: JAL_IOB_131; SRA: SRS2046057
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579081	ID: 6579081
+
+71. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579080; Sample name: JAL_IOB_130; SRA: SRS2046056
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579080	ID: 6579080
+
+72. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579079; Sample name: JAL_IOB_129; SRA: SRS2046058
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579079	ID: 6579079
+
+73. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579078; Sample name: JAL_IOB_128; SRA: SRS2046059
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579078	ID: 6579078
+
+74. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579077; Sample name: JAL_IOB_127; SRA: SRS2046060
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579077	ID: 6579077
+
+75. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579076; Sample name: JAL_IOB_126; SRA: SRS2046061
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579076	ID: 6579076
+
+76. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579075; Sample name: JAL_IOB_125; SRA: SRS2046062
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579075	ID: 6579075
+
+77. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579074; Sample name: JAL_IOB_124; SRA: SRS2046063
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579074	ID: 6579074
+
+78. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579073; Sample name: JAL_IOB_123; SRA: SRS2046064
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579073	ID: 6579073
+
+79. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579072; Sample name: JAL_IOB_122; SRA: SRS2046065
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579072	ID: 6579072
+
+80. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579071; Sample name: JAL_IOB_121; SRA: SRS2046066
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579071	ID: 6579071
+
+81. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579070; Sample name: JAL_IOB_120; SRA: SRS2046068
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579070	ID: 6579070
+
+82. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579069; Sample name: JAL_IOB_119; SRA: SRS2046067
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579069	ID: 6579069
+
+83. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579068; Sample name: JAL_IOB_118; SRA: SRS2046069
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579068	ID: 6579068
+
+84. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579067; Sample name: JAL_IOB_117; SRA: SRS2046071
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579067	ID: 6579067
+
+85. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579066; Sample name: JAL_IOB_116; SRA: SRS2046072
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579066	ID: 6579066
+
+86. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579065; Sample name: JAL_IOB_115; SRA: SRS2046073
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579065	ID: 6579065
+
+87. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579064; Sample name: JAL_IOB_114; SRA: SRS2046070
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579064	ID: 6579064
+
+88. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579063; Sample name: JAL_IOB_113; SRA: SRS2046077
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579063	ID: 6579063
+
+89. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579062; Sample name: JAL_IOB_112; SRA: SRS2046074
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579062	ID: 6579062
+
+90. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579061; Sample name: JAL_IOB_111; SRA: SRS2046075
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579061	ID: 6579061
+
+91. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579060; Sample name: JAL_IOB_110; SRA: SRS2046076
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579060	ID: 6579060
+
+92. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579059; Sample name: JAL_IOB_109; SRA: SRS2046078
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579059	ID: 6579059
+
+93. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579058; Sample name: JAL_IOB_108; SRA: SRS2046080
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579058	ID: 6579058
+
+94. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579057; Sample name: JAL_IOB_107; SRA: SRS2046079
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579057	ID: 6579057
+
+95. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579056; Sample name: JAL_IOB_106; SRA: SRS2046081
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579056	ID: 6579056
+
+96. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579055; Sample name: JAL_IOB_105; SRA: SRS2046083
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579055	ID: 6579055
+
+97. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579054; Sample name: JAL_IOB_104; SRA: SRS2046082
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579054	ID: 6579054
+
+98. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579053; Sample name: JAL_IOB_103; SRA: SRS2046084
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579053	ID: 6579053
+
+99. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579052; Sample name: JAL_IOB_102; SRA: SRS2046085
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579052	ID: 6579052
+
+100. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579051; Sample name: JAL_IOB_101; SRA: SRS2046086
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579051	ID: 6579051
+
+101. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579050; Sample name: JAL_IOB_100; SRA: SRS2046087
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579050	ID: 6579050
+
+102. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579049; Sample name: JAL_IOB_99; SRA: SRS2046089
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579049	ID: 6579049
+
+103. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579048; Sample name: JAL_IOB_98; SRA: SRS2046088
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579048	ID: 6579048
+
+104. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579047; Sample name: JAL_IOB_97; SRA: SRS2046090
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579047	ID: 6579047
+
+105. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579046; Sample name: JAL_IOB_96; SRA: SRS2046091
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579046	ID: 6579046
+
+106. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579045; Sample name: JAL_IOB_95; SRA: SRS2046092
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579045	ID: 6579045
+
+107. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579044; Sample name: JAL_IOB_94; SRA: SRS2046093
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579044	ID: 6579044
+
+108. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579043; Sample name: JAL_IOB_93; SRA: SRS2046094
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579043	ID: 6579043
+
+109. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579042; Sample name: JAL_IOB_92; SRA: SRS2046096
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579042	ID: 6579042
+
+110. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579041; Sample name: JAL_IOB_91; SRA: SRS2046095
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579041	ID: 6579041
+
+111. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579040; Sample name: JAL_IOB_90; SRA: SRS2046097
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579040	ID: 6579040
+
+112. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579039; Sample name: JAL_IOB_89; SRA: SRS2046098
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579039	ID: 6579039
+
+113. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579038; Sample name: JAL_IOB_88; SRA: SRS2046099
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579038	ID: 6579038
+
+114. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579037; Sample name: JAL_IOB_87; SRA: SRS2046100
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579037	ID: 6579037
+
+115. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579036; Sample name: JAL_IOB_86; SRA: SRS2046101
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579036	ID: 6579036
+
+116. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579035; Sample name: JAL_IOB_85; SRA: SRS2046102
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579035	ID: 6579035
+
+117. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579034; Sample name: JAL_IOB_84; SRA: SRS2046105
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579034	ID: 6579034
+
+118. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579033; Sample name: JAL_IOB_83; SRA: SRS2046103
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579033	ID: 6579033
+
+119. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579032; Sample name: JAL_IOB_82; SRA: SRS2046104
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579032	ID: 6579032
+
+120. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579031; Sample name: JAL_IOB_81; SRA: SRS2046106
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579031	ID: 6579031
+
+121. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579030; Sample name: JAL_IOB_80; SRA: SRS2046107
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579030	ID: 6579030
+
+122. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579029; Sample name: JAL_IOB_79; SRA: SRS2046108
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579029	ID: 6579029
+
+123. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579028; Sample name: JAL_IOB_78; SRA: SRS2046109
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579028	ID: 6579028
+
+124. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579027; Sample name: JAL_IOB_77; SRA: SRS2046110
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579027	ID: 6579027
+
+125. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579026; Sample name: JAL_IOB_76; SRA: SRS2046111
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579026	ID: 6579026
+
+126. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579025; Sample name: JAL_IOB_75; SRA: SRS2046113
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579025	ID: 6579025
+
+127. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579024; Sample name: JAL_IOB_74; SRA: SRS2046112
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579024	ID: 6579024
+
+128. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579023; Sample name: JAL_IOB_73; SRA: SRS2046114
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579023	ID: 6579023
+
+129. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579022; Sample name: JAL_IOB_72; SRA: SRS2046115
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579022	ID: 6579022
+
+130. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579021; Sample name: JAL_IOB_71; SRA: SRS2046116
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579021	ID: 6579021
+
+131. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579020; Sample name: JAL_IOB_70; SRA: SRS2046117
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579020	ID: 6579020
+
+132. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579019; Sample name: JAL_IOB_69; SRA: SRS2046118
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579019	ID: 6579019
+
+133. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579018; Sample name: JAL_IOB_68; SRA: SRS2046119
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579018	ID: 6579018
+
+134. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579017; Sample name: JAL_IOB_67; SRA: SRS2046120
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579017	ID: 6579017
+
+135. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579016; Sample name: JAL_IOB_66; SRA: SRS2046121
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579016	ID: 6579016
+
+136. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579015; Sample name: JAL_IOB_65; SRA: SRS2046122
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579015	ID: 6579015
+
+137. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579014; Sample name: JAL_IOB_64; SRA: SRS2046123
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579014	ID: 6579014
+
+138. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579013; Sample name: JAL_IOB_63; SRA: SRS2046124
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579013	ID: 6579013
+
+139. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579012; Sample name: JAL_IOB_62; SRA: SRS2046125
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579012	ID: 6579012
+
+140. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579011; Sample name: JAL_IOB_61; SRA: SRS2046126
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579011	ID: 6579011
+
+141. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579010; Sample name: JAL_IOB_60; SRA: SRS2046127
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579010	ID: 6579010
+
+142. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579009; Sample name: JAL_IOB_59; SRA: SRS2046128
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579009	ID: 6579009
+
+143. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579008; Sample name: JAL_IOB_58; SRA: SRS2046131
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579008	ID: 6579008
+
+144. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579007; Sample name: JAL_IOB_57; SRA: SRS2046129
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579007	ID: 6579007
+
+145. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579006; Sample name: JAL_IOB_56; SRA: SRS2046130
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579006	ID: 6579006
+
+146. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579005; Sample name: JAL_IOB_55; SRA: SRS2046132
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579005	ID: 6579005
+
+147. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579004; Sample name: JAL_IOB_54; SRA: SRS2046133
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579004	ID: 6579004
+
+148. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579003; Sample name: JAL_IOB_53; SRA: SRS2046134
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579003	ID: 6579003
+
+149. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579002; Sample name: JAL_IOB_52; SRA: SRS2046135
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579002	ID: 6579002
+
+150. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579001; Sample name: JAL_IOB_51; SRA: SRS2046136
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579001	ID: 6579001
+
+151. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06579000; Sample name: JAL_IOB_50; SRA: SRS2046139
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06579000	ID: 6579000
+
+152. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578999; Sample name: JAL_IOB_49; SRA: SRS2046137
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578999	ID: 6578999
+
+153. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578998; Sample name: JAL_IOB_48; SRA: SRS2046138
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578998	ID: 6578998
+
+154. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578997; Sample name: JAL_IOB_47; SRA: SRS2046140
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578997	ID: 6578997
+
+155. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578996; Sample name: JAL_IOB_46; SRA: SRS2046141
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578996	ID: 6578996
+
+156. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578995; Sample name: JAL_IOB_45; SRA: SRS2046143
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578995	ID: 6578995
+
+157. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578994; Sample name: JAL_IOB_44; SRA: SRS2046144
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578994	ID: 6578994
+
+158. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578993; Sample name: JAL_IOB_43; SRA: SRS2046142
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578993	ID: 6578993
+
+159. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578992; Sample name: JAL_IOB_42; SRA: SRS2046145
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578992	ID: 6578992
+
+160. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578991; Sample name: JAL_IOB_41; SRA: SRS2046146
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578991	ID: 6578991
+
+161. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578990; Sample name: JAL_IOB_40; SRA: SRS2046147
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578990	ID: 6578990
+
+162. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578989; Sample name: JAL_IOB_39; SRA: SRS2046148
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578989	ID: 6578989
+
+163. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578988; Sample name: JAL_IOB_38; SRA: SRS2046149
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578988	ID: 6578988
+
+164. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578987; Sample name: JAL_IOB_37; SRA: SRS2046151
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578987	ID: 6578987
+
+165. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578986; Sample name: JAL_IOB_36; SRA: SRS2046150
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578986	ID: 6578986
+
+166. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578985; Sample name: JAL_IOB_35; SRA: SRS2046152
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578985	ID: 6578985
+
+167. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578984; Sample name: JAL_IOB_34; SRA: SRS2046153
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578984	ID: 6578984
+
+168. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578983; Sample name: JAL_IOB_33; SRA: SRS2046154
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578983	ID: 6578983
+
+169. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578982; Sample name: JAL_IOB_32; SRA: SRS2046155
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578982	ID: 6578982
+
+170. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578981; Sample name: JAL_IOB_31; SRA: SRS2046156
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578981	ID: 6578981
+
+171. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578980; Sample name: JAL_IOB_30; SRA: SRS2046157
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578980	ID: 6578980
+
+172. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578979; Sample name: JAL_IOB_29; SRA: SRS2046158
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578979	ID: 6578979
+
+173. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578978; Sample name: JAL_IOB_28; SRA: SRS2046159
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578978	ID: 6578978
+
+174. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578977; Sample name: JAL_IOB_27; SRA: SRS2046160
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578977	ID: 6578977
+
+175. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578976; Sample name: JAL_IOB_26; SRA: SRS2046161
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578976	ID: 6578976
+
+176. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578975; Sample name: JAL_IOB_25; SRA: SRS2046162
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578975	ID: 6578975
+
+177. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578974; Sample name: JAL_IOB_24; SRA: SRS2046163
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578974	ID: 6578974
+
+178. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578973; Sample name: JAL_IOB_23; SRA: SRS2046164
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578973	ID: 6578973
+
+179. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578972; Sample name: JAL_IOB_22; SRA: SRS2046165
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578972	ID: 6578972
+
+180. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578971; Sample name: JAL_IOB_21; SRA: SRS2046166
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578971	ID: 6578971
+
+181. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578970; Sample name: JAL_IOB_20; SRA: SRS2046167
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578970	ID: 6578970
+
+182. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578969; Sample name: JAL_IOB_19; SRA: SRS2046168
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578969	ID: 6578969
+
+183. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578968; Sample name: JAL_IOB_18; SRA: SRS2046169
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578968	ID: 6578968
+
+184. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578967; Sample name: JAL_IOB_17; SRA: SRS2046170
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578967	ID: 6578967
+
+185. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578966; Sample name: JAL_IOB_16; SRA: SRS2046171
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578966	ID: 6578966
+
+186. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578965; Sample name: JAL_IOB_15; SRA: SRS2046172
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578965	ID: 6578965
+
+187. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578964; Sample name: JAL_IOB_14; SRA: SRS2046173
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578964	ID: 6578964
+
+188. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578963; Sample name: JAL_IOB_13; SRA: SRS2046174
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578963	ID: 6578963
+
+189. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578962; Sample name: JAL_IOB_12; SRA: SRS2046175
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578962	ID: 6578962
+
+190. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578961; Sample name: JAL_IOB_11; SRA: SRS2046176
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578961	ID: 6578961
+
+191. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578960; Sample name: JAL_IOB_10; SRA: SRS2046177
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578960	ID: 6578960
+
+192. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578959; Sample name: JAL_IOB_9; SRA: SRS2046179
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578959	ID: 6578959
+
+193. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578958; Sample name: JAL_IOB_8; SRA: SRS2046178
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578958	ID: 6578958
+
+194. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578957; Sample name: JAL_IOB_7; SRA: SRS2046180
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578957	ID: 6578957
+
+195. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578956; Sample name: JAL_IOB_6; SRA: SRS2046181
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578956	ID: 6578956
+
+196. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578955; Sample name: JAL_IOB_5; SRA: SRS2046182
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578955	ID: 6578955
+
+197. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578954; Sample name: JAL_IOB_4; SRA: SRS2046183
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578954	ID: 6578954
+
+198. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578953; Sample name: JAL_IOB_3; SRA: SRS2046184
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578953	ID: 6578953
+
+199. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578952; Sample name: JAL_IOB_2; SRA: SRS2046185
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578952	ID: 6578952
+
+200. Pathogen: clinical or host-associated sample from Mycobacterium tuberculosis
+Identifiers:	BioSample: SAMN06578951; Sample name: JAL_IOB_1; SRA: SRS2046186
+Organism:	Mycobacterium tuberculosis
+		strain: Microbial; isolate: Pulmonary tuberculosis
+Package:	Pathogen: clinical or host-associated; version 1.0
+Accession: SAMN06578951	ID: 6578951
